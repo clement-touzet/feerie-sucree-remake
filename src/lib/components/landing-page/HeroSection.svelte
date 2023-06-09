@@ -18,9 +18,9 @@
 			<p
 				class="max-w-2xl mb-6 font-normal text-gray-400 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400"
 			>
-				Je réalise le gateau de vos rêves, que ce soit pour un marriage, une baby shower, un
-				anniversaire, et bien plus encore... Toutes mes patisseries sont faites à la entièrement à
-				la main.
+				Je réalise le gateau de vos rêves, que ce soit pour un mariage, une baby shower, un
+				anniversaire, et bien plus encore... Toutes mes patisseries sont faites entièrement à la
+				main.
 			</p>
 			<ButtonFreeQuotation />
 		</div>
