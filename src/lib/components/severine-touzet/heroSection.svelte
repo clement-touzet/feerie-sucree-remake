@@ -11,9 +11,11 @@
 			<p>Depuis ma plus tendre enfance, je suis baignée dans la gourmandise des pâtisseries</p>
 		</blockquote>
 	</div>
-	<img
-		alt="Séverine Touzet en train de patisser dans son atelier à Tarnos"
-		src="/images/severine-touzet/severine-touzet-qui-patisse.jpg"
-		class="max-w-[300px] h-auto w-auto block"
-	/>
+	<div class="flex justify-center flex-1">
+		<img
+			alt="Séverine Touzet en train de patisser dans son atelier à Tarnos"
+			src="/images/severine-touzet/severine-touzet-qui-patisse.jpg"
+			class="max-w-[300px] h-auto w-full md:w-auto block"
+		/>
+	</div>
 </div>
