@@ -23,7 +23,6 @@
 
 <AppBar background="bg-surface-50-900-token " padding="py-2 px-4" spacing="space-y-0" gap="'gap-0">
 	<svelte:fragment slot="lead">
-		<!-- todo button menu drawer -->
 		<img
 			src="images/logo.png"
 			class="w-20 aspect-square min-w-20 cursor-pointer min-w-[50px]"

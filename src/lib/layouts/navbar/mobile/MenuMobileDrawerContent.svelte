@@ -8,7 +8,7 @@
 	};
 </script>
 
-<div class="flex flex-col items-center h-full w-full p-4">
+<div class="flex flex-col items-center h-full w-full p-4 overflow-auto">
 	<div class="flex flex-row-reverse w-full">
 		<button class="btn-icon" on:click={handleClickCloseDrawer}><MdClose /></button>
 	</div>
