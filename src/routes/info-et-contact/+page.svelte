@@ -1,1 +1,5 @@
-<h1>Infos et contact</h1>
+<script>
+	import ContactHeroSection from '$lib/components/info-et-contact/ContactHeroSection.svelte';
+</script>
+
+<ContactHeroSection />
