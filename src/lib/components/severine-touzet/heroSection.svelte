@@ -1,6 +1,6 @@
 <div class="mx-auto px-4 max-w-screen-xl gap-10 flex flex-col md:flex-row mt-8 lg:mt-16">
 	<div class="min-h-[150px]">
-		<h1 class="h1 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl">
+		<h1 class=" h1 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl">
 			Séverine Touzet
 		</h1>
 		<div class="font-normal text-gray-400 md:text-lg lg:text-xl dark:text-gray-400">
