@@ -14,13 +14,12 @@
 >
 	Mes créations
 </a>
+<a href="/blog" class="btn font-medium text-primary-500 dark:text-primary-50 hidden lg:block">
+	Blog
+</a>
 <a
 	href="/info-et-contact"
 	class="btn font-medium text-primary-500 dark:text-primary-50 hidden lg:block"
 >
 	Contact
-</a>
-
-<a href="/blog" class="btn font-medium text-primary-500 dark:text-primary-50 hidden lg:block">
-	Blog
 </a>
