@@ -1,4 +1,4 @@
-<div class="max-w-screen-lg mx-auto mt-16">
+<div class="mx-auto mt-16 max-w-screen-lg">
 	<p class="text-center">
 		Veuillez noter que je propose uniquement des commandes sur place et que je n'effectue pas de
 		livraisons. De plus, pour faciliter les transactions, j'accepte les paiements par carte bancaire

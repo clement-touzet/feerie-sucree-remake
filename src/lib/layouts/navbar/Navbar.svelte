@@ -25,13 +25,13 @@
 	<svelte:fragment slot="lead">
 		<img
 			src="images/logo.png"
-			class="w-20 aspect-square min-w-20 cursor-pointer min-w-[50px]"
+			class="min-w-20 aspect-square w-20 min-w-[50px] cursor-pointer"
 			alt="logo de la patisserie féérie sucrée"
 		/>
 	</svelte:fragment>
 	<svelte:fragment slot="trail">
 		<NavigationLinks />
-		<div class="w-12 h-6 hidden lg:block">
+		<div class="hidden h-6 w-12 lg:block">
 			<LightSwitch />
 		</div>
 		<ButtonFreeQuotation />

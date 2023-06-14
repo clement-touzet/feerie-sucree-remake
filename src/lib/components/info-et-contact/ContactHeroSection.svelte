@@ -2,7 +2,7 @@
 	import ButtonFreeQuotation from '../ButtonFreeQuotation.svelte';
 </script>
 
-<div class="max-w-screen-lg flex flex-col mx-auto mt-8 lg:mt-16 px-4">
+<div class="mx-auto mt-8 flex max-w-screen-lg flex-col px-4 lg:mt-16">
 	<div class="flex flex-col items-center">
 		<h1 class="h1">Contactez-moi</h1>
 		<p class="mt-4">
