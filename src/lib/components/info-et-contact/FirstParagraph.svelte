@@ -1,4 +1,4 @@
-<div class="mx-auto mt-16 max-w-screen-lg">
+<div class="mx-auto mt-16 max-w-screen-lg px-4 md:px-8">
 	<p class="text-center">
 		Pour vous assurer de pouvoir savourer mes délicieuses pâtisseries personnalisées, il est
 		recommandé de prendre contact pour réserver vos gâteaux
