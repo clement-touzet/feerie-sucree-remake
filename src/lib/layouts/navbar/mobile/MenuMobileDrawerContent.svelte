@@ -8,11 +8,11 @@
 	};
 </script>
 
-<div class="flex flex-col items-center h-full w-full p-4">
-	<div class="flex flex-row-reverse w-full">
+<div class="flex h-full w-full flex-col items-center overflow-auto p-4">
+	<div class="flex w-full flex-row-reverse">
 		<button class="btn-icon" on:click={handleClickCloseDrawer}><MdClose /></button>
 	</div>
-	<div class="flex flex-col gap-4 item-center justify-center w-full h-full my-4">
+	<div class="item-center my-4 flex h-full w-full flex-col justify-center gap-4">
 		<MobileNavigationLinks />
 	</div>
 

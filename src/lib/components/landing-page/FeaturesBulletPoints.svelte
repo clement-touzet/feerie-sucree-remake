@@ -2,16 +2,16 @@
 	<div class="text-center">
 		<h3 class="h3">Féérie Sucrée, c'est</h3>
 	</div>
-	<div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 md:px-12 lg:px-6">
+	<div class="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 md:px-12 lg:px-6">
 		<div
-			class=" bg-primary-50-900-tokenspace-y-8 flex flex-col md:grid md:grid-cols-2 md:gap-6 gap-4 md:space-y-0"
+			class=" bg-primary-50-900-tokenspace-y-8 flex flex-col gap-4 md:grid md:grid-cols-2 md:gap-6 md:space-y-0"
 		>
 			<div class="card card-hover variant-ghost p-4">
 				<div
-					class=" flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-300-600-token lg:h-12 lg:w-12"
+					class=" mb-4 flex h-10 w-10 items-center justify-center rounded-full bg-primary-300-600-token lg:h-12 lg:w-12"
 				>
 					<svg
-						class="w-6 h-6 text-primary-900 lg:w-6 lg:h-6 dark:text-primary-200"
+						class="h-6 w-6 text-primary-900 dark:text-primary-200 lg:h-6 lg:w-6"
 						fill="currentColor"
 						viewBox="0 0 20 21"
 						xmlns="http://www.w3.org/2000/svg"
@@ -21,18 +21,18 @@
 						/>
 					</svg>
 				</div>
-				<h3 class="mb-2 h3 text-primary-900-50-token">Une pâtisserie artisanale</h3>
-				<p class="mb-2 text-primary-800-100-token font-medium">
+				<h3 class="h3 mb-2 text-primary-900-50-token">Une pâtisserie artisanale</h3>
+				<p class="mb-2 font-medium text-primary-800-100-token">
 					Je vous propose des pâtisseries traditionnelles ainsi que des gâteaux décorés et uniques
 					pour tous les événements de la vie: anniversaires, mariages, baptêmes, et bien plus...
 				</p>
 			</div>
 			<div class="card card-hover variant-ghost p-4">
 				<div
-					class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-300-600-token lg:h-12 lg:w-12"
+					class="mb-4 flex h-10 w-10 items-center justify-center rounded-full bg-primary-300-600-token lg:h-12 lg:w-12"
 				>
 					<svg
-						class="w-6 h-6 text-primary-900 lg:w-6 lg:h-6 dark:text-primary-200"
+						class="h-6 w-6 text-primary-900 dark:text-primary-200 lg:h-6 lg:w-6"
 						fill="currentColor"
 						viewBox="0 0 256 256"
 						xmlns="http://www.w3.org/2000/svg"
@@ -42,10 +42,10 @@
 						/>
 					</svg>
 				</div>
-				<h3 class="mb-2 h3 text-primary-900-50-token">
+				<h3 class="h3 mb-2 text-primary-900-50-token">
 					Une pâtisserie éco-responsable et éco-engagée
 				</h3>
-				<p class="text-primary-900-50-token font-medium mb-2">
+				<p class="mb-2 font-medium text-primary-900-50-token">
 					Je souhaite agir, à mon niveau, pour préserver l’environnement. Pour cela je travaille,
 					autant que possible, avec des produits de saison, et en circuit court.
 				</p>

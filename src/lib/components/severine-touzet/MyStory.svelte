@@ -1,5 +1,5 @@
-<div class="max-w-screen-lg center mx-auto text-center w-full mt-20">
-	<div>
+<div class="max-w-screen-lg center md:mx-auto text-center w-full mt-20">
+	<div class="mx-10 lg:mx-0">
 		<h2 class="h2">Mon histoire</h2>
 		<p class="mt-8">
 			Pour le premier anniversaire de mon fils aîné, j’ai réalisé mon premier gâteau décoré en pâte
@@ -21,8 +21,8 @@
 				class="bg-gradient-to-br from-secondary-500 to-primary-500 to-70% bg-clip-text text-transparent box-decoration-clone"
 				>passion</strong
 			>
-			pour la pâtisserie grandissante, j’ai commencé à prendre des cours lors d’ateliers afin de
-			pouvoir réaliser des desserts <strong>plus élaborés</strong>.
+			pour la pâtisserie grandissante, j’ai commencé à prendre des cours lors d’ateliers afin de pouvoir
+			réaliser des desserts <strong>plus élaborés</strong>.
 		</p>
 		<br />
 		<p class="">Je me suis mise à préparer des gâteaux pour la famille, les amis, l’entourage.</p>

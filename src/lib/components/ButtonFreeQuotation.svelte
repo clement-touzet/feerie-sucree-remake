@@ -3,7 +3,7 @@
 </script>
 
 <a
-	class="btn md:btn-lg btn-md text-white font-medium bg-gradient-to-r from-secondary-500 to-primary-500"
+	class="md:btn-lg btn-md btn bg-gradient-to-r from-secondary-500 to-primary-500 font-medium text-white"
 	href="tel:0682293060"
 	target="_blank"
 	rel="noreferrer"
