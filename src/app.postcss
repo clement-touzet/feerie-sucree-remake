@@ -19,6 +19,14 @@ body {
 	width: 20px;
 }
 
+.gradient-heading-secondary-primary {
+	@apply box-decoration-clone bg-clip-text text-transparent;
+	/* Direction */
+	@apply bg-gradient-to-br;
+	/* Color Stops */
+	@apply from-secondary-500 to-primary-500 to-70%;
+}
+
 :root {
 	/* =~= Theme Properties =~= */
 	--theme-font-family-base: 'Montserrat';

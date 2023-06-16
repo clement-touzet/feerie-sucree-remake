@@ -4,7 +4,9 @@
 	import PassionStrength from './PassionStrength.svelte';
 </script>
 
-<h2 class="h2">Mes forces</h2>
-<ArtisanatStrenght />
-<EcoFriendlyStrenght />
-<PassionStrength />
+<div class=" mx-auto flex max-w-screen-xl flex-col items-center gap-4 px-4 lg:mt-8">
+	<h2 class=" h2 my-8 text-5xl">Mes forces</h2>
+	<ArtisanatStrenght />
+	<EcoFriendlyStrenght />
+	<PassionStrength />
+</div>
