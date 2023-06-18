@@ -2,7 +2,7 @@
 	<div class="text-center">
 		<h3 class="h3">Féérie Sucrée, c'est</h3>
 	</div>
-	<div class="mx-auto max-w-screen-xl px-4 py-8 sm:py-16 md:px-12 lg:px-6">
+	<div class="paddingAndMarginContainer mx-auto max-w-screen-xl">
 		<div
 			class=" bg-primary-50-900-tokenspace-y-8 flex flex-col gap-4 md:grid md:grid-cols-2 md:gap-6 md:space-y-0"
 		>
