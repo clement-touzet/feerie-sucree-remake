@@ -4,7 +4,7 @@
 	import PassionStrength from './PassionStrength.svelte';
 </script>
 
-<div class=" paddingAndMarginContainer mx-auto flex max-w-screen-xl flex-col items-center gap-4">
+<div class="paddingAndMarginContainer mx-auto flex max-w-screen-xl flex-col items-center gap-16">
 	<h2 class="h2 text-5xl">Mes forces</h2>
 	<ArtisanatStrenght />
 	<EcoFriendlyStrenght />
