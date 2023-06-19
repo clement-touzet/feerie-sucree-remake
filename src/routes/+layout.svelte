@@ -13,6 +13,7 @@
 	// analytics with vercel
 	import { dev } from '$app/environment';
 	import { inject } from '@vercel/analytics';
+	import Footer from '$lib/layouts/footer/Footer.svelte';
 	inject({ mode: dev ? 'development' : 'production' });
 
 	// reset scroll when
@@ -23,7 +24,6 @@
 			elemPage.scrollTop = 0;
 		}
 	});
-
 </script>
 
 <Drawer slotContent="bg-surface-50-900-token">
@@ -37,4 +37,7 @@
 		<Navbar />
 	</svelte:fragment>
 	<slot />
+	<svelte:fragment slot="pageFooter">
+		<Footer />
+	</svelte:fragment>
 </AppShell>
