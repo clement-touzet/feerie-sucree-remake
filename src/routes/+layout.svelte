@@ -8,12 +8,22 @@
 	import { AppShell, Drawer, drawerStore } from '@skeletonlabs/skeleton';
 	import Navbar from '$lib/layouts/navbar/Navbar.svelte';
 	import MenuMobileDrawerContent from '$lib/layouts/navbar/mobile/MenuMobileDrawerContent.svelte';
+	import { afterNavigate } from '$app/navigation';
 
 	// analytics with vercel
 	import { dev } from '$app/environment';
 	import { inject } from '@vercel/analytics';
-
+	import Footer from '$lib/layouts/footer/Footer.svelte';
 	inject({ mode: dev ? 'development' : 'production' });
+
+	// reset scroll when
+	afterNavigate(() => {
+		// Scroll to top
+		const elemPage = document.querySelector('#page');
+		if (elemPage !== null) {
+			elemPage.scrollTop = 0;
+		}
+	});
 </script>
 
 <Drawer slotContent="bg-surface-50-900-token">
@@ -27,4 +37,7 @@
 		<Navbar />
 	</svelte:fragment>
 	<slot />
+	<svelte:fragment slot="pageFooter">
+		<Footer />
+	</svelte:fragment>
 </AppShell>

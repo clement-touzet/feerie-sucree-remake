@@ -1,9 +1,7 @@
-<div
-	class="flex w-full flex-col items-center justify-between gap-4 p-0 md:flex-row md:items-start md:p-8"
->
-	<div class="flex flex-col">
-		<h3 class="gradient-heading-secondary-primary h3 text-4xl">L'artisanat</h3>
-		<p>
+<div class="flex w-full flex-col items-center justify-between gap-4 md:flex-row">
+	<div class="mx-4 flex flex-col items-center text-center md:mx-8 lg:mx-16">
+		<h3 class="gradient-heading-secondary-primary h3 text-4xl">Artisanat</h3>
+		<p class="text-base md:text-lg">
 			Afin de vous proposer le meilleur des patisseries, je confectionne tous mes gâteaux à la main
 			en prennant compte du moindre des détails.
 		</p>
