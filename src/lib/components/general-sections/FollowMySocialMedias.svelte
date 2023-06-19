@@ -4,9 +4,7 @@
 	import { facebookLink, instagramLink } from '$lib/utils/constants/socialLinks';
 </script>
 
-<div
-	class="paddingAndMarginContainer flex flex-col items-center gap-6 text-center bg-primary-50-900-token"
->
+<div class="mt-8 flex flex-col items-center gap-6 p-6 text-center bg-primary-50-900-token md:mt-16">
 	<p class="text-xl font-medium">
 		Rejoingnez-moi sur les réseaux sociaux pour voir toutes mes créations !
 	</p>
