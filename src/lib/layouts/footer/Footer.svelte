@@ -25,5 +25,9 @@
 		<a href={mesCreationsRoute}>Mes créations</a>
 		<a href={severineTouzetRoute}>Severine Touzet</a>
 	</div>
-	<div />
+	<div>
+		<a href={''}>Mentions légales</a>
+		<a href={''}>todo</a>
+		<a href={''}>Politique de confidentialité</a>
+	</div>
 </div>

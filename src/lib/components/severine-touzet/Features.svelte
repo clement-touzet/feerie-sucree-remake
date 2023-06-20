@@ -1,5 +1,5 @@
 <div
-	class="max-w-screen-xl flex flex-col mt-24 mx-auto items-center text-center lg:flex-row px-10 md:px-24"
+	class="paddingAndMarginContainer mx-auto flex max-w-screen-xl flex-col items-center text-center lg:flex-row"
 >
 	<div class="flex-1 px-2">
 		<h3 class="h3">Pâtisseries artisanales</h3>
