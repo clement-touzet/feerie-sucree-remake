@@ -5,6 +5,10 @@
 	import HeroSection from '$lib/components/severine-touzet/heroSection.svelte';
 </script>
 
+<svelte:head>
+	<title>Féérie Sucrée - Séverine Touzet</title>
+</svelte:head>
+
 <HeroSection />
 <MyStory />
 <SellingProposition />

@@ -26,6 +26,13 @@
 	});
 </script>
 
+<svelte:head>
+	<meta
+		name="description"
+		content="Féerie Sucrée propose des pâtisseries artisanales, Cake design, Wedding cake, pièces montées, mignardises, toutes réalisées à la commande à Tarnos (40)."
+	/>
+</svelte:head>
+
 <Drawer slotContent="bg-surface-50-900-token">
 	{#if $drawerStore.id === 'menu-mobile'}
 		<MenuMobileDrawerContent />

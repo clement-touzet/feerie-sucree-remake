@@ -5,6 +5,10 @@
 	import ParagraphOnPlace from '$lib/components/info-et-contact/ParagraphOnPlace.svelte';
 </script>
 
+<svelte:head>
+	<title>Féérie Sucrée - Contact</title>
+</svelte:head>
+
 <div class="mb-16">
 	<ContactHeroSection />
 	<FirstParagraph />

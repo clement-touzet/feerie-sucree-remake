@@ -6,6 +6,10 @@
 	import MyStrenghts from '$lib/components/landing-page/my-strenghts/MyStrenghts.svelte';
 </script>
 
+<svelte:head>
+	<title>Féérie Sucrée - Accueil</title>
+</svelte:head>
+
 <HeroSection />
 <FeaturesBulletPoints />
 <MyStrenghts />
