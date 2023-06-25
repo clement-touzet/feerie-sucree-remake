@@ -9,7 +9,7 @@
 </script>
 
 <div
-	class="mt-8 flex flex-wrap items-center gap-16 bg-surface-900 p-8 dark:bg-surface-800 md:mt-16 md:flex-row md:justify-center"
+	class="mt-8 flex flex-wrap items-center gap-16 bg-surface-900 p-8 text-white dark:bg-surface-800 md:mt-16 md:flex-row md:justify-center"
 >
 	<div class="">
 		<img
