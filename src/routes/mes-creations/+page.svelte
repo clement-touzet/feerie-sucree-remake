@@ -1,8 +1,11 @@
 <script>
-	import CakeDesignFeature from '$lib/components/mes-creations/CakeDesignFeature.svelte';
+	import MyCreationsCategories from '$lib/components/mes-creations/MyCreationsCategories.svelte';
 </script>
 
-<h1>Catégories</h1>
-<CakeDesignFeature />
+<svelte:head>
+	<title>Féérie Sucrée - Mes créations</title>
+</svelte:head>
+<h2 class="h2 text-center">Catégories</h2>
+<MyCreationsCategories />
 
 <h1>Mes dernières publications</h1>

@@ -5,7 +5,7 @@
 </script>
 
 <div class="paddingAndMarginContainer mx-auto flex max-w-screen-xl flex-col items-center gap-16">
-	<h2 class="h2 text-5xl">Mes forces</h2>
+	<h2 class="h2">Mes forces</h2>
 	<ArtisanatStrenght />
 	<EcoFriendlyStrenght />
 	<PassionStrength />

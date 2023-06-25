@@ -18,6 +18,15 @@ body {
 	height: 20px;
 	width: 20px;
 }
+.no-scrollbar::-webkit-scrollbar {
+	display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+	-ms-overflow-style: none; /* IE and Edge */
+	scrollbar-width: none; /* Firefox */
+}
 
 .paddingAndMarginContainer {
 	@apply mt-8 p-4 md:mt-16 md:p-8;

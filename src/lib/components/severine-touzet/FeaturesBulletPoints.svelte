@@ -1,8 +1,8 @@
-<section class="mt-16">
+<section class="paddingAndMarginContainer">
 	<div class="text-center">
-		<h3 class="h3">Féérie Sucrée, c'est</h3>
+		<h3 class="h3">Féérie Sucrée, c'est avant tout</h3>
 	</div>
-	<div class="paddingAndMarginContainer mx-auto max-w-screen-xl">
+	<div class="mx-auto mt-8 max-w-screen-xl">
 		<div
 			class=" bg-primary-50-900-tokenspace-y-8 flex flex-col gap-4 md:grid md:grid-cols-2 md:gap-6 md:space-y-0"
 		>

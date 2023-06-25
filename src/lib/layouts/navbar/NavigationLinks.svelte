@@ -5,7 +5,7 @@
 	href="/severine-touzet"
 	class="btn hidden font-medium text-primary-500 dark:text-primary-50 lg:block"
 >
-	Séverine touzet
+	Séverine Touzet
 </a>
 
 <a
