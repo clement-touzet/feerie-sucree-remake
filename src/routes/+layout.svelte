@@ -39,7 +39,7 @@
 	{/if}
 </Drawer>
 
-<AppShell slotPageContent="bg-surface-50-900-token" slotPageFooter="bg-white">
+<AppShell slotPageContent="bg-surface-50-900-token" slotPageFooter="bg-white dark:bg-surface-900">
 	<svelte:fragment slot="header">
 		<Navbar />
 	</svelte:fragment>

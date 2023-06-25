@@ -9,7 +9,7 @@
 </script>
 
 <div
-	class="flex flex-col mt-8 md:mt-16 items-center justify-center gap-16 bg-surface-900 p-8 dark:bg-surface-800 md:flex-row"
+	class="mt-8 flex flex-wrap items-center gap-16 bg-surface-900 p-8 dark:bg-surface-800 md:mt-16 md:flex-row md:justify-center"
 >
 	<div class="">
 		<img
@@ -25,9 +25,9 @@
 		<a href={mesCreationsRoute}>Mes créations</a>
 		<a href={severineTouzetRoute}>Severine Touzet</a>
 	</div>
-	<div>
+	<div class="flex flex-col gap-2">
 		<a href={''}>Mentions légales</a>
-		<a href={''}>todo</a>
+		<a href={''}>TODO</a>
 		<a href={''}>Politique de confidentialité</a>
 	</div>
 </div>
