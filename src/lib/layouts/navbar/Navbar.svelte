@@ -8,8 +8,7 @@
 	const settingsDrawerMenuMobile: DrawerSettings = {
 		id: 'menu-mobile',
 		bgDrawer: 'bg-primary-50-900-token',
-		bgBackdrop:
-			'bg-gradient-to-br from-primary-500/50 to-secondary-500/50 dark:from-primary-500/80 dark:to-secondary-500/80',
+		bgBackdrop: '',
 		width: 'w-full',
 		padding: 'pl-8 pt-8 pb-8',
 		rounded: 'rounded-l-3xl',
