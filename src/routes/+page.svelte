@@ -5,6 +5,7 @@
 	import HeroSection from '$lib/components/landing-page/HeroSection.svelte';
 	import MyStrenghts from '$lib/components/landing-page/my-strenghts/MyStrenghts.svelte';
 	import CakeCategories from '$lib/components/landing-page/CakeCategories.svelte';
+	import FeaturesSection from '$lib/components/landing-page/FeaturesSection.svelte';
 </script>
 
 <svelte:head>
@@ -13,6 +14,7 @@
 
 <HeroSection />
 <CakeCategories />
+<FeaturesSection />
 <MyStrenghts />
 <FollowMySocialMedias />
 <CtaFreeQuotation />

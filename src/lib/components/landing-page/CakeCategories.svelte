@@ -1,4 +1,5 @@
 <script>
+	import { mesCreationsRoute } from '$lib/utils/constants/routes';
 	import CakeCategorieCard from '../cakes/categories/CakeCategorieCard.svelte';
 </script>
 
@@ -10,4 +11,10 @@
 		<CakeCategorieCard />
 		<CakeCategorieCard />
 	</div>
+	<a
+		class=" md:btn-lg btn-md btn mt-8 cursor-pointer bg-gradient-to-r from-secondary-500 to-primary-500 font-medium text-white"
+		href={mesCreationsRoute}
+	>
+		Voir toutes les catégories
+	</a>
 </div>
