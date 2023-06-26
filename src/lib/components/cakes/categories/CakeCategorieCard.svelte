@@ -1,6 +1,9 @@
-<div class="pt-[100px]">
+<script>
+</script>
+
+<div class=" pt-[100px]">
 	<div class="card flex min-h-[400px] w-80 min-w-[300px] flex-col items-start p-6 text-left">
-		<div class="relative top-[-100px]">
+		<div class="relative top-[-100px] hover:scale-110">
 			<img
 				src="images/patisseries/no-bg-entremet.png"
 				alt="gâteaux du type cake design détouré"
