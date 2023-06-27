@@ -1,4 +1,4 @@
-<div class="">
+<div class="paddingAndMarginContainer flex flex-col items-center">
 	<p>Number et Letter cake</p>
 	<h2 class="h2">
 		Mes <span class="gradient-heading-secondary-primary">Letter et Number Cakes</span>
