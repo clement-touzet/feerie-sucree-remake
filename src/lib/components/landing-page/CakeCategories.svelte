@@ -12,7 +12,7 @@
 		<CakeCategorieCard />
 	</div>
 	<a
-		class=" md:btn-lg btn-md btn mt-8 cursor-pointer bg-gradient-to-r from-secondary-500 to-primary-500 font-medium text-white"
+		class="md:btn-lg btn-md btn mt-8 w-auto cursor-pointer bg-gradient-to-r from-secondary-500 to-primary-500 font-medium text-white md:w-96"
 		href={mesCreationsRoute}
 	>
 		Voir toutes les catégories
