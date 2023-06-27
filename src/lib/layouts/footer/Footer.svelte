@@ -18,16 +18,17 @@
 			alt="logo de la patisserie féérie sucrée"
 		/>
 	</div>
-	<div class="flex flex-col gap-2">
-		<a href={accueilRoute}>Accueil</a>
-		<a href={blogRoute}>Blog</a>
-		<a href={infoAndContactRoute}>Contact</a>
-		<a href={mesCreationsRoute}>Mes créations</a>
-		<a href={severineTouzetRoute}>Severine Touzet</a>
-	</div>
-	<div class="flex flex-col gap-2">
-		<a href={''}>Mentions légales</a>
-		<a href={''}>TODO</a>
-		<a href={''}>Politique de confidentialité</a>
+	<div class="flex gap-16">
+		<div class="flex flex-col gap-2">
+			<a href={accueilRoute}>Accueil</a>
+			<a href={blogRoute}>Blog</a>
+			<a href={infoAndContactRoute}>Contact</a>
+			<a href={mesCreationsRoute}>Mes créations</a>
+			<a href={severineTouzetRoute}>Severine Touzet</a>
+		</div>
+		<div class="flex flex-col gap-2">
+			<a href={''}>Mentions légales</a>
+			<a href={''}>Politique de confidentialité</a>
+		</div>
 	</div>
 </div>
